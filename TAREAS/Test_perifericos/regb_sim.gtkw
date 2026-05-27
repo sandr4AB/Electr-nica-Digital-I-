@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue May 26 12:58:25 2026
+[*]
+[dumpfile] "/home/sandra/digital_UN/Digital_SAB/regb_TB.vcd"
+[dumpfile_mtime] "Tue May 26 12:55:12 2026"
+[dumpfile_size] 12526
+[savefile] "/home/sandra/digital_UN/Digital_SAB/regb_sim.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 24 -1
+*-18.000000 367000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] regb_TB.
+[sst_width] 254
+[signals_width] 111
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+regb_TB.uut.clk
+@22
+regb_TB.uut.in_B[7:0]
+@28
+regb_TB.uut.load
+@c00025
+regb_TB.uut.s_B[7:0]
+@28
+(0)regb_TB.uut.s_B[7:0]
+(1)regb_TB.uut.s_B[7:0]
+(2)regb_TB.uut.s_B[7:0]
+(3)regb_TB.uut.s_B[7:0]
+(4)regb_TB.uut.s_B[7:0]
+(5)regb_TB.uut.s_B[7:0]
+(6)regb_TB.uut.s_B[7:0]
+(7)regb_TB.uut.s_B[7:0]
+@1401205
+-group_end
+@28
+regb_TB.uut.shift
+[pattern_trace] 1
+[pattern_trace] 0
