@@ -1,0 +1,51 @@
+[*]
+[*] GTKWave Analyzer v3.3.117 (w)1999-2023 BSI
+[*] Mon Jun  1 16:03:02 2026
+[*]
+[dumpfile] "/home/vargas/Electr-nica-Digital-I-/TAREAS/Test_perifericos/control_multi_TB.vcd"
+[dumpfile_mtime] "Mon Jun  1 16:02:04 2026"
+[dumpfile_size] 2578
+[savefile] "/home/vargas/Electr-nica-Digital-I-/TAREAS/Test_perifericos/control_multi_sim.gtkw"
+[timestart] 28000
+[size] 1300 699
+[pos] -1 -1
+*-18.000000 126000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] control_multi_TB.
+[sst_width] 216
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 185
+@420
+control_multi_TB.uut.ADD
+@28
+control_multi_TB.uut.C
+@420
+control_multi_TB.uut.CHECK
+control_multi_TB.uut.END
+control_multi_TB.uut.SHIFT
+control_multi_TB.uut.START
+@28
+control_multi_TB.uut.add
+control_multi_TB.uut.add
+control_multi_TB.uut.clk
+@22
+control_multi_TB.uut.count[3:0]
+@28
+control_multi_TB.uut.done
+control_multi_TB.uut.init
+control_multi_TB.uut.load
+control_multi_TB.uut.lsb_B
+@29
+control_multi_TB.uut.reset
+@28
+control_multi_TB.uut.sh
+@800028
+control_multi_TB.uut.state[2:0]
+@28
+(0)control_multi_TB.uut.state[2:0]
+(1)control_multi_TB.uut.state[2:0]
+(2)control_multi_TB.uut.state[2:0]
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
