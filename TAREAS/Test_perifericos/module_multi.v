@@ -1,4 +1,4 @@
-module multi (clk,reset,init, A, B, R, done);
+module multi ( clk , reset , init , A , B , R , done );
 input clk;
 input reset;
 input init;

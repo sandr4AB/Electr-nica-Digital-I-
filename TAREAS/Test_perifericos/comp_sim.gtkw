@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu May 28 12:39:05 2026
+[*]
+[dumpfile] "/home/sandra/digital_UN/Digital_SAB/comp_TB.vcd"
+[dumpfile_mtime] "Thu May 28 12:34:13 2026"
+[dumpfile_size] 398
+[savefile] "/home/sandra/digital_UN/Digital_SAB/comp_sim.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-17.000000 367600 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] comp_TB.
+[sst_width] 254
+[signals_width] 97
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@22
+comp_TB.uut.B[7:0]
+@28
+comp_TB.uut.C
+[pattern_trace] 1
+[pattern_trace] 0
