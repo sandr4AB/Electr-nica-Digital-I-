@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Jul 14 16:30:51 2026
+[*]
+[dumpfile] "/home/sandra/digital_UN/Digital_SAB/CONTADOR DE UNOS/registro_corrimiento_TB.vcd"
+[dumpfile_mtime] "Tue Jul 14 16:29:41 2026"
+[dumpfile_size] 12572
+[savefile] "/home/sandra/digital_UN/Digital_SAB/CONTADOR DE UNOS/registro_corrimiento_sim.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] registro_corrimiento_TB.
+[sst_width] 254
+[signals_width] 93
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+registro_corrimiento_TB.uut.Q[7:0]
+registro_corrimiento_TB.uut.clk
+@29
+registro_corrimiento_TB.uut.in[7:0]
+@28
+registro_corrimiento_TB.uut.load
+registro_corrimiento_TB.uut.rst
+registro_corrimiento_TB.uut.shift
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Jul 14 17:10:52 2026
+[*]
+[dumpfile] "/home/sandra/digital_UN/Digital_SAB/CONTADOR DE UNOS/contador_bits_TB.vcd"
+[dumpfile_mtime] "Tue Jul 14 17:03:59 2026"
+[dumpfile_size] 12598
+[savefile] "/home/sandra/digital_UN/Digital_SAB/CONTADOR DE UNOS/contador_bits_sim.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-17.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] contador_bits_TB.
+[sst_width] 254
+[signals_width] 84
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@29
+contador_bits_TB.uut.Q[7:0]
+@28
+contador_bits_TB.uut.clk
+contador_bits_TB.uut.inc
+contador_bits_TB.uut.rst
+[pattern_trace] 1
+[pattern_trace] 0
